@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2EZzHgoxLbk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cayde\\Desktop\\SnakeGame\\JuegoSnake\\CsharpProjects\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cayde\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.13\\microsoft.win32.systemevents.10.0.13.nupkg.sha512",
+    "C:\\Users\\cayde\\.nuget\\packages\\system.drawing.common\\10.0.13\\system.drawing.common.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
